@@ -1,0 +1,8 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFrameworks>net8.0-windows;net48</TargetFrameworks>
+    <PlatformTarget>x86</PlatformTarget>
+    <EnableComHosting>true</EnableComHosting>
+    <Platforms>x86</Platforms>
+  </PropertyGroup>
+</Project>
